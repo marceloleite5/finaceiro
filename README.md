@@ -1,2 +1,2 @@
-# finaceiro
+# financeiro
 sistema de gestão financeira
